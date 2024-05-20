@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/* header  */
+.header li{
+    list-style: none;
+}
+.header ul li a{
+    font-size: 25px;
+}
+/* carousel  */
+.carousel{
+    background-color: brown;
+}
+.carousel h1{
+    font-size: 40px ;
+    color: white;
+    text-align: center;
+}
+.carousel p{
+    font-size: 30px;
+    color: white;
+}
+/* about  */
+.about{
+    margin-top: 30px;
+    background-color: brown;
+}
+.about h1{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+.about ul li{
+    font-size: 25px;
+    color: white;
+    margin-left: 40px;
+}
+/* footer  */
+.container{
+    width: 80%;
+    margin: auto;
+    
+}
+.container table{
+    
+    width: 1200px;
+    height: 900px;
+    text-align: center;
+}
